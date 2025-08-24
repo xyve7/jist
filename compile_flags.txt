@@ -1,0 +1,8 @@
+-xc
+-Wall 
+-Wextra
+-Werror
+-std=gnu11 
+-I./src/include
+-I./lib/src/include
+-ldl
