@@ -1,4 +1,3 @@
-#include <asm-generic/errno-base.h>
 #include <dlfcn.h>
 #include <errno.h>
 #include <fcntl.h>
